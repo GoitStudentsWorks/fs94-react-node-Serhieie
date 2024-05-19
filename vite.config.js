@@ -12,5 +12,5 @@ export default defineConfig({
       assets: '/src/assets',
     },
   },
-  base: '/ReactOctopus',
+  base: '/fs94-react-node-Serhieie',
 });
